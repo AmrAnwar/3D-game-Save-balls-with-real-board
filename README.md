@@ -9,6 +9,6 @@ it's a game build by unity engine and C arduino
 
 * [the presentation](https://prezi.com/sn1cyaqdhsnx/controlling-3d-game-using-a-real-board/?utm_campaign=share&utm_medium=copy&webgl=0)
 ```
-it's a simple project in my university ,I was the team leader XD
+it's a simple project in my university.
 ```
 ![Photo to the Game](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/d5/513446/3d9119d9e4e455648d78d428657069cc-original.JPG )
